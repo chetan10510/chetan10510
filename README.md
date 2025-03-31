@@ -2,7 +2,7 @@
 
 Hi there! I'm **Korivi Chetan Kumar**, a passionate developer, AI enthusiast, Game Developer and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.  
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stuff
 
 ### 💡 Programming & Core Concepts  
 <p align="left">
