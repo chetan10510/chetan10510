@@ -1,12 +1,13 @@
-# THIS IS MY WORLD
+# Welcome to My Digital Universe 🌌
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Korivi+Chetan+Kumar;Game+Developer+%26+AI+Enthusiast;Unreal+Engine+Expert;Motion+Graphics+Designer" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</p>
+<!-- Cool animated background -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 ## 🎮 Game Development & 3D
 
@@ -18,6 +19,11 @@
   <img src="https://img.shields.io/badge/Google%20Earth%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Verse-7A1FA2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UnrealScript-0E1128?style=for-the-badge" />
+</div>
+
+<!-- Matrix-like animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 📹 Motion Graphics & Design
@@ -41,6 +47,11 @@
   <img src="https://img.shields.io/badge/Vector%20DB-005517?style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 
+<!-- Code animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+</div>
+
 ### ☁️ Cloud & DevOps  
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -60,6 +71,11 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
+<!-- Game development animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="100%">
+</div>
+
 ### 🏛 Large Language Models (LLMs)  
 <div align="left">
   <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
@@ -71,6 +87,11 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
+
+<!-- Wave animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b554cd95-c673-4354-a780-05a8ac0a5d9d.gif" width="100%">
 </div>
 
 ## 🚀 Highlighted Projects
@@ -140,14 +161,24 @@
   </table>
 </div>
 
+<!-- Game controller animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
 ## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KoriviChetanKumar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoriviChetanKumar&theme=radical" alt="GitHub Streak" />
+</div>
+
+<!-- Particle animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e5-49c0-b9f3-9d313d598015.gif" width="100%">
 </div>
 
 ## 📫 Connect With Me
@@ -161,10 +192,11 @@
   </a>
 </div>
 
+<!-- Footer animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chetan&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KoriviChetanKumar&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
