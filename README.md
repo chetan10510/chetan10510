@@ -8,7 +8,7 @@
 
 ##  Featured Projects  
 
-- **[MedIntel – Biomedical QA System]**  
+- **MedIntel – Biomedical QA System**  
   Fine-tuned **SciBERT** on PubMedQA and built a **RAG pipeline** with FAISS + Sentence Transformers. Deployed with Docker + Streamlit for explainable biomedical Q&A.  
 
 - **[CodeMentor-AI – Coding Interview Assistant](https://huggingface.co/Tuathe/codementor-flan)**  
@@ -20,10 +20,10 @@
 - **[LLMGuard – Prompt Injection & Moderation Toolkit](https://huggingface.co/spaces/Tuathe/llmguard)**  
   AI Safety project with real-time unsafe prompt detection, Streamlit dashboard, and moderation tracking.  
 
-- **[StackGenie – Cloud Release Notes Dashboard]**  
+- **StackGenie – Cloud Release Notes Dashboard**  
   Streamlit + BigQuery-based release notes analyzer with live dashboards and secure auth.  
 
-- **[PriceSense – Laptop Price Prediction]**  
+- **PriceSense – Laptop Price Prediction**  
   Regression model with **R² > 0.73**, explainability using SHAP, and drift monitoring dashboard.  
 
 ---
