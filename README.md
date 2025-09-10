@@ -1,4 +1,4 @@
-#  Hi, I’m Chetan Kumar  
+#  Yo, I’m Chetan Kumar  
 
 **Aspiring AI/ML Engineer | Full-Stack AI Applications | LLM Fine-Tuning & MLOps**  
 
