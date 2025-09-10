@@ -31,7 +31,7 @@
 ##  Research  
 
 - **BirdZ – Indian Bird Species Detection** (YOLOv12, EfficientNet-B7)  
-  Built dataset of 6,900+ images across 14 species, contributed to training + evaluation, and co-drafted research paper.  
+  Built dataset of 6,900+ images across 14 species, contributed to training + evaluation, and drafted research paper.  
 
 ---
 
