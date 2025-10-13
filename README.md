@@ -11,7 +11,6 @@
 - 🎓 Senior Undergraduate at **VIT-AP University**  
 - 🔭 Currently working on **LLM Fine-Tuning, RAG, and AI Safety**  
 - 🌱 Learning advanced **MLOps workflows & scalable AI deployment**  
-- 👨‍💻 All my projects are available on [GitHub](https://github.com/chetan10510)  
 - 💬 Ask me about **LLMs, RAG, Explainable AI, MLOps**  
 - 📫 Reach me at **korivichetan5@gmail.com**  
 
