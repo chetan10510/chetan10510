@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🎓 Senior Undergraduate at **VIT-AP University**  
-- 🔭 Currently working on **LLM Fine-Tuning, RAG, and AI Safety**  
+- 🔭 Currently working at GENIE AI. INC (Canada, Toronto)
 - 🌱 Learning advanced **MLOps workflows & scalable AI deployment**  
 - 💬 Ask me about **LLMs, RAG, Explainable AI, MLOps**  
 - 📫 Reach me at **korivichetan5@gmail.com**  
